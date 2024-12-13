@@ -1,0 +1,30 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^6.0.1",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "imap-simple": "^5.1.0",
+    "imapflow": "^1.0.171",
+    "jsonwebtoken": "^9.0.2",
+    "node-imap": "^0.9.6",
+    "nodemailer": "^6.9.16",
+    "nodemon": "^3.1.7"
+  },
+  "devDependencies": {
+    "prisma": "^6.0.1"
+  }
+}
