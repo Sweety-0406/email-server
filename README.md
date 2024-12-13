@@ -97,7 +97,7 @@ The server will start at `http://localhost:3000` by default.
               "to": "recipient@example.com",
               "subject": "Email Subject",
               "date": "2024-12-13T05:31:57.000Z",
-              "body"
+              "body": "Sender Message"
           }
       ]
   }
