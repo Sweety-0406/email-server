@@ -105,17 +105,6 @@ The server will start at `http://localhost:3000` by default.
 
 ---
 
-## Test Accounts
-Provide at least two email accounts for testing:
-- **Account 1**:
-  - Email: `tstestserver1@gmail.com`
-  - Password: `flnw kvbj mcrt tves`
-
-- **Account 2**:
-  - Email: `tstestserver2@gmail.com`
-  - Password: `glqm ybtt csmf zdhf`
-
----
 
 ## Implementation Details
 
